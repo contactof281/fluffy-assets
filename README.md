@@ -6,3 +6,4 @@ Archivos estáticos de la tienda Fluffy (fluffy-pets.com) que Tiendanube no perm
 
 Se sirven con jsDelivr: `https://cdn.jsdelivr.net/gh/contactof281/fluffy-assets@<tag>/mascotas/puma.webm`
 - `marca/fluffy-logo.svg` — logo de Fluffy vectorizado (azul #004AAD), para el logo grande del footer.
+- `michipad/mp-*.webp` — fotos de las 4 tarjetas "Por qué lo eligen" de la ficha del MichiPad (antes PNG de Boostify).
